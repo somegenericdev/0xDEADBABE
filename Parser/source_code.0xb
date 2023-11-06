@@ -1,0 +1,4 @@
+val variabile = 55;
+if(variabile==5){
+    print("ciao")
+}
