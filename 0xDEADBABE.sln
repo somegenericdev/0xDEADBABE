@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{DFE0F6FC-4A01-4BC6-AF51-8FBB0147F363}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokenizer", "Tokenizer\Tokenizer.csproj", "{DFE0F6FC-4A01-4BC6-AF51-8FBB0147F363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
